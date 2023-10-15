@@ -1,6 +1,10 @@
 # Props
+`Parent to child`
+`child`
+`child to parent`
 
-`Parent`
+# Redux
+
 
 
 
